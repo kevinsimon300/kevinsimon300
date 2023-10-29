@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, soy Kevin!
+Bienvenido a mi perfil de GitHub. 
+## Sobre mí
+Soy estudiante del grado en ingenieria informática en la Salle Universidad Ramon Llull y del ciclo formativo del grado superior de Desarollo de aplicaciónes web, me considero un apasionado por el mundo de las nuevas tecnologias con ganas de aprender y desarollar sobre este mundo tan apasionante.
+Durante mi trayectória académica he distintos lenguajes de programación, de descripción y de tipado, entre ellos:
+  - Lenguajes de programación: Java, C, JavaScript, Matlab, Bash, PHP, NodeJS
+  - Lenguajes de descripción de Hardware: VHDL
+  - Lenguajes Marca: HTML, XML, CSS
 
-<!--
-**kevinsimon300/kevinsimon300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Proyectos
+- Práctica con Tipos Abstractos de Datos (TAD's) y Estrocturas Lineales https://github.com/kevinsimon300/Practise-with-TAD-s-and-Linear-Stroctures
+- Representación de una Máquina de Estados Finita (FSM) con VHDL https://github.com/kevinsimon300/VHDL
+- Ejercicio de implementación de cookies con JavaScript https://github.com/kevinsimon300/ejercicio11
+- Práctica con listeners en JavaScript https://github.com/kevinsimon300/Practise-with-Listeners-in-JS
