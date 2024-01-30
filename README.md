@@ -8,7 +8,4 @@ Durante mi trayectória académica he distintos lenguajes de programación, de d
   - Lenguajes Marca: HTML, XML, CSS
 
 ## Mis Proyectos
-- Práctica con Tipos Abstractos de Datos (TAD's) y Estrocturas Lineales https://github.com/kevinsimon300/Practise-with-TAD-s-and-Linear-Stroctures
-- Representación de una Máquina de Estados Finita (FSM) con VHDL https://github.com/kevinsimon300/VHDL
-- Ejercicio de implementación de cookies con JavaScript https://github.com/kevinsimon300/ejercicio11
-- Práctica con listeners en JavaScript https://github.com/kevinsimon300/Practise-with-Listeners-in-JS
+
